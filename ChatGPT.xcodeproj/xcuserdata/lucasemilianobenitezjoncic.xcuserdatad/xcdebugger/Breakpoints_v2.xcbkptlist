@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "19EB0739-218A-4319-8FF9-512D02996C7A"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88AECD38-637A-415A-8032-4A7044B7AD5C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPT/Network/ChatGPTAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "callChatGPT(prompt:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "88AECD38-637A-415A-8032-4A7044B7AD5C - 25ee3d738ec14abc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatGPT.callChatGPT(prompt: Swift.String) -&gt; ()"
+                  moduleName = "ChatGPT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasemilianobenitezjoncic/Proyectos/ChatGPT/ChatGPT/Network/ChatGPTAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "88AECD38-637A-415A-8032-4A7044B7AD5C - 95015ede5bee1443"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ChatGPT.callChatGPT(prompt: Swift.String) -&gt; Swift.String"
+                  moduleName = "ChatGPT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasemilianobenitezjoncic/Proyectos/ChatGPT/ChatGPT/Network/ChatGPTAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "56">
+               </Location>
+               <Location
+                  uuid = "88AECD38-637A-415A-8032-4A7044B7AD5C - 6cd815ed6758c2f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ChatGPT.callChatGPT(prompt: Swift.String) async throws -&gt; Swift.String"
+                  moduleName = "ChatGPT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasemilianobenitezjoncic/Proyectos/ChatGPT/ChatGPT/Network/ChatGPTAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  uuid = "88AECD38-637A-415A-8032-4A7044B7AD5C - 7e61dff871c90927"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(1) suspend resume partial function for ChatGPT.callChatGPT(prompt: Swift.String) async throws -&gt; ()"
+                  moduleName = "ChatGPT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasemilianobenitezjoncic/Proyectos/ChatGPT/ChatGPT/Network/ChatGPTAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "65"
+                  endingLineNumber = "65"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DECE7FFF-0448-49CD-9D96-AB20C42ED2B2"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPT/Network/ChatGPTAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "getChatResponse(prompt:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "59379F0D-B4E0-4A1B-B2A5-13226A363349"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPT/Network/ChatGPTAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "getChatResponse(prompt:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1C4A306A-9768-41C6-99C3-C790DF2B966A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPT/Network/ChatGPTAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "getChatResponse(prompt:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "1C4A306A-9768-41C6-99C3-C790DF2B966A - de145cf2386502ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatGPT.getChatResponse(prompt: Swift.String) -&gt; ()"
+                  moduleName = "ChatGPT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasemilianobenitezjoncic/Proyectos/ChatGPT/ChatGPT/Network/ChatGPTAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "684">
+               </Location>
+               <Location
+                  uuid = "1C4A306A-9768-41C6-99C3-C790DF2B966A - de145cf2386502ae"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in ChatGPT.getChatResponse(prompt: Swift.String) -&gt; ()"
+                  moduleName = "ChatGPT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasemilianobenitezjoncic/Proyectos/ChatGPT/ChatGPT/Network/ChatGPTAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "1060">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9662F6A7-B217-4E17-9416-1DA17DF2D715"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPT/Network/ChatGPTAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "getChatResponse(prompt:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B89964BB-8461-49AB-8439-5D02F881201F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPT/Network/ChatGPTAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "56"
+            endingLineNumber = "56"
+            landmarkName = "getChatResponse(prompt:)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95BCEA07-074A-48FE-AF27-679F062D360C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ChatGPT/Network/ChatGPTAPI.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "69"
+            endingLineNumber = "69"
+            landmarkName = "callChatGPT(prompt:)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "95BCEA07-074A-48FE-AF27-679F062D360C - 40ee01e6c339e73"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ChatGPT.callChatGPT(prompt: Swift.String) async throws -&gt; Swift.String"
+                  moduleName = "ChatGPT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasemilianobenitezjoncic/Proyectos/ChatGPT/ChatGPT/Network/ChatGPTAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "384">
+               </Location>
+               <Location
+                  uuid = "95BCEA07-074A-48FE-AF27-679F062D360C - cd0e9e516d5f8589"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for ChatGPT.callChatGPT(prompt: Swift.String) async throws -&gt; ()"
+                  moduleName = "ChatGPT"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lucasemilianobenitezjoncic/Proyectos/ChatGPT/ChatGPT/Network/ChatGPTAPI.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "384">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
